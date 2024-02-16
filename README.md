@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TShreek
 - 👀 I’m interested in Web development, Javascript and game dev
-- 🌱 I’m currently learning Data structures and algorithms
+- 🌱 I’m currently learning Data structures and algorithms, dbms and unix shell programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @tshreek on socials
+- 📫 How to reach me : @tshreek on socials
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
