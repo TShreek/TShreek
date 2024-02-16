@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TShreek
-- 👀 I’m interested in Web development, Javascript
+- 👀 I’m interested in Web development, Javascript and game dev
 - 🌱 I’m currently learning Data structures and algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @tshreek on socials
