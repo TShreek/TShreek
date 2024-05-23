@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data structures and algorithms, Computer networks and cryptography
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : @tshreek on socials
-- 😄 Pronouns: ...
+- 😄 Gender: Male
 - ⚡ Fun fact: ... I've been playing on a computer before I could drink without a sipper
 
 <!---
