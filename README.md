@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1 style="font-size: 3em; font-weight: bold; margin-bottom: 0;">Hi, I am Shreekrishna T ✌️</h1>
+  <h1 style="font-size: 3em; font-weight: bold; margin-bottom: 0;">Hi, I am Shreekrishna T 👋</h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3498DB&center=true&vCenter=true&width=460&lines=Game+Developer;Cyber+Security+Enthusiast;UI%2FUX+Designer;Front-End+Dev" alt="Typing SVG - Game Developer, Cyber Security Enthusiast, UI/UX Designer, Front-End Dev" />
   </a>
@@ -80,13 +80,10 @@ Currently, I'm honing my skills as a **UI/UX Design Intern at Verity Labs** (Mar
   <a href="https://github.com/TShreek/unity">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TShreek&repo=unity&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2" />
   </a>
-  <a href="https://github.com/TShreek/YOUR_APP_OR_WEB_REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TShreek&repo=YOUR_APP_OR_WEB_REPO_NAME&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2" />
-  </a>
-</div>
+  </div>
 <br>
 <div align="center">
-  <em>🚀 Check out my repositories for these and other exciting projects! 🚀</em>
+  <em>🚀 Check out my repositories for more exciting projects! 🚀</em>
 </div>
 
 ---
@@ -117,6 +114,16 @@ Currently, I'm honing my skills as a **UI/UX Design Intern at Verity Labs** (Mar
   </a> &nbsp;
   <a href="mailto:tshreek2004@gmail.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
+</div>
+
+---
+
+## 📊 LeetCode Prowess
+
+<div align="center">
+  <a href="https://leetcode.com/u/TShreek/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/TShreek?theme=dark&font=Fira%20Code&ext=activity,heatmap&border=0&radius=10&height=350" alt="Shreekrishna's LeetCode Stats & Activity"/>
   </a>
 </div>
 
