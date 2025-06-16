@@ -70,16 +70,20 @@ Hey there! I'm Shreekrishna, a 3rd-year Computer Science student specializing in
 
 ---
 
-## 🌟 Spotlight Project
+## 🌟 Spotlight Projects
 
 <div align="center">
   <a href="https://github.com/TShreek/LearningResourceGenerator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TShreek&repo=LearningResourceGenerator&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2" alt="LearningResourceGenerator Project Pin" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/TShreek/unity">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TShreek&repo=unity&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2" alt="Unity Game Development Project Pin" />
+  </a>
 </div>
 <br>
 <div align="center">
-  <em>🚀 Check out my other repositories for more exciting projects! 🚀</em>
+  <em>🚀 Check out my repositories for more exciting projects! 🚀</em>
 </div>
 
 ---
