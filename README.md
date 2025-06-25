@@ -91,7 +91,8 @@ Hey there! I'm Shreekrishna, a 3rd-year Computer Science student specializing in
 ## 🌱 Currently Brewing
 
 * Deepening my expertise in **Unity 3D Development**, covering 3D modeling, physics, character movement, and environment creation (Udemy, Ongoing).
-* Training for the **Professional Cloud Security Engineer certification** through Google Cloud Cyber Security courses (Google).
+* Persuing knowledge in order to clear **CompTIA Security+** certification to show my cyber security knowledge.
+* Completed the **Professional Cloud Security Engineer certification course** through Google Cloud Cyber Security courses (Google).
 * Actively participating in cybersecurity workshops and initiatives as a member of **SecuRIT (MSRIT Cybersecurity Club)**.
 * Recently completed **Advent Of Cyber 2024 challenges**, gaining experience in threat analysis, network security, and system forensics.
 
