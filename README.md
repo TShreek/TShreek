@@ -8,7 +8,7 @@
   <br>
 
   <p style="font-size: 1.2em; margin-top: 10px;">
-    🚀 Final year B.E. Computer Science (Cyber Security) student passionate about Game Development, UI/UX Design, and Mostly Cybersecurity. 🚀 
+    🚀 3rd-year B.E. Computer Science (Cyber Security) student passionate about Game Development, UI/UX Design, and Cybersecurity. 🚀 
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=TShreek&label=Profile%20Gazers&color=00A86B&style=flat-square" alt="profile gazers"/>
@@ -26,6 +26,9 @@
   </a>
   <a href="https://streak-stats.demolab.com?user=TShreek">
     <img src="https://streak-stats.demolab.com?user=TShreek&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TShreek&theme=tokyonight">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TShreek&theme=tokyonight" alt="GitHub Summary Card" />
   </a>
 </div>
 
@@ -46,28 +49,7 @@ Hey there! I'm Shreekrishna, a 3rd-year Computer Science student specializing in
 ## 🛠️ My Tech Arsenal
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Adobe Lightroom"/>
-  <img src="https://img.shields.io/badge/Network%20Security-007ACC?style=for-the-badge&logo=linux&logoColor=white" alt="Network Security"/>
-  <img src="https://img.shields.io/badge/Encryption-00BFB3?style=for-the-badge&logo=lock&logoColor=white" alt="Encryption"/>
-  <img src="https://img.shields.io/badge/Hashing-F05032?style=for-the-badge&logo=key&logoColor=white" alt="Hashing"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Gemini API"/>
-  <img src="https://img.shields.io/badge/YouTube%20API-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube API"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/DBMS-F29111?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="DBMS"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,typescript,html,css,figma,unity,git,docker,mysql,gcp,aws,flutter"/>
 </div>
 
 ---
