@@ -8,7 +8,7 @@
   <br>
 
   <p style="font-size: 1.2em; margin-top: 10px;">
-    🚀 3rd-year B.E. Computer Science (Cyber Security) student passionate about Game Development, UI/UX Design, and Cybersecurity. 🚀 
+    🚀 Final year B.E. Computer Science (Cyber Security) student passionate about Game Development, UI/UX Design, and Mostly Cybersecurity. 🚀 
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=TShreek&label=Profile%20Gazers&color=00A86B&style=flat-square" alt="profile gazers"/>
@@ -18,18 +18,15 @@
 ---
 
 <div align="center">
-
   <a href="https://github.com/TShreek">
     <img src="https://github-readme-stats.vercel.app/api?username=TShreek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=49%" alt="Shreekrishna T's GitHub Stats" />
   </a>
   <a href="https://github.com/TShreek">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TShreek&layout=compact&theme=tokyonight&hide_border=true&card_width=49%" alt="Shreekrishna T's Top Languages" />
   </a>
-  <br><br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TShreek&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&rank=-C" alt="Shreekrishna T's GitHub Trophies" />
+  <a href="https://streak-stats.demolab.com?user=TShreek">
+    <img src="https://streak-stats.demolab.com?user=TShreek&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
-
 </div>
 
 ---
@@ -38,12 +35,17 @@
 
 Hey there! I'm Shreekrishna, a 3rd-year Computer Science student specializing in Cyber Security at M. S. Ramaiah Institute of Technology (CGPA: 8.55). I'm passionate about building tools that solve real-world problems and currently exploring how Generative AI can make learning more accessible. My goal is to leverage my skills in **Game Development**, **UI/UX Design**, and **Cybersecurity** to create innovative and impactful solutions. ✨
 
+<div align="center">
+  <a href="https://tryhackme.com/p/Shmegatron" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Shmegatron.png" alt="TryHackMe Badge" />
+  </a>
+</div>
+
 ---
 
 ## 🛠️ My Tech Arsenal
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
@@ -85,16 +87,6 @@ Hey there! I'm Shreekrishna, a 3rd-year Computer Science student specializing in
 <div align="center">
   <em>🚀 Check out my repositories for more exciting projects! 🚀</em>
 </div>
-
----
-
-## 🌱 Currently Brewing
-
-* Deepening my expertise in **Unity 3D Development**, covering 3D modeling, physics, character movement, and environment creation (Udemy, Ongoing).
-* Persuing knowledge in order to clear **CompTIA Security+** certification to show my cyber security knowledge.
-* Completed the **Professional Cloud Security Engineer certification course** through Google Cloud Cyber Security courses (Google).
-* Actively participating in cybersecurity workshops and initiatives as a member of **SecuRIT (MSRIT Cybersecurity Club)**.
-* Recently completed **Advent Of Cyber 2024 challenges**, gaining experience in threat analysis, network security, and system forensics.
 
 ---
 
