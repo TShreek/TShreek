@@ -40,7 +40,7 @@ Hey there! I'm Shreekrishna, a 3rd-year Computer Science student specializing in
 
 <div align="center">
   <a href="https://tryhackme.com/p/Shmegatron" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Shmegatron.png" alt="TryHackMe Badge" />
+     <img src="https://tryhackme-badges.s3.amazonaws.com/Shmegatron.png" alt="Your Image Badge" />
   </a>
 </div>
 
