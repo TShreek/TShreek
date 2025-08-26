@@ -36,20 +36,15 @@
 
 ## 🎯 About Me
 
-Hey there! I'm Shreekrishna, a 3rd-year Computer Science student specializing in Cyber Security at M. S. Ramaiah Institute of Technology (CGPA: 8.55). I'm passionate about building tools that solve real-world problems and currently exploring how Generative AI can make learning more accessible. My goal is to leverage my skills in **Game Development**, **UI/UX Design**, and **Cybersecurity** to create innovative and impactful solutions. ✨
+Hey there! I'm Shreekrishna, a Final year Computer Science student specializing in Cyber Security at M. S. Ramaiah Institute of Technology (CGPA: 8.53). I'm passionate about building tools that solve real-world problems and currently exploring how Generative AI can make learning more accessible. My goal is to leverage my skills in **Game Development**, **UI/UX Design**, and **Cybersecurity** to create innovative and impactful solutions. 
 
-<div align="center">
-  <a href="https://tryhackme.com/p/Shmegatron" target="_blank">
-     <img src="https://tryhackme-badges.s3.amazonaws.com/Shmegatron.png" alt="Your Image Badge" />
-  </a>
-</div>
 
 ---
 
 ## 🛠️ My Tech Arsenal
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,typescript,html,css,figma,unity,git,docker,mysql,gcp,aws,flutter"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,typescript,html,css,unity,git,docker,mysql,gcp,aws,flutter,aws"/>
 </div>
 
 ---
@@ -76,7 +71,7 @@ Hey there! I'm Shreekrishna, a 3rd-year Computer Science student specializing in
 
 <div align="center">
   <p>
-    I'm always excited to discuss game development, cybersecurity, UI/UX design, or any tech innovations. Let's connect!
+    I'm always excited to discuss game development, cybersecurity, or any tech innovations. Let's connect!
   </p>
   <a href="https://itshreek.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio%20Website-00A86B?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio/Website"/>
