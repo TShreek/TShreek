@@ -8,7 +8,7 @@
   <br>
 
   <p style="font-size: 1.2em; margin-top: 10px;">
-    🚀 3rd-year B.E. Computer Science (Cyber Security) student passionate about Game Development, UI/UX Design, and Cybersecurity. 🚀 
+    🚀 Final year B.E. Computer Science (Cyber Security) student passionate about Secure Software Development, Game development and Cybersecurity. 🚀 
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=TShreek&label=Profile%20Gazers&color=00A86B&style=flat-square" alt="profile gazers"/>
