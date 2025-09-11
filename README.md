@@ -44,7 +44,7 @@ Hey there! I'm Shreekrishna, a Final year Computer Science student specializing 
 ## 🛠️ My Tech Arsenal
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,typescript,html,css,unity,git,docker,mysql,gcp,aws,flutter,langchain,langgraph"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,typescript,html,css,unity,git,docker,mysql,gcp,aws,flutter,linux"/>
 </div>
 
 ---
