@@ -2,7 +2,7 @@
 
   <h1 style="font-size: 3em; font-weight: bold; margin-bottom: 0;">Hi, I am Shreekrishna T 👋</h1> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3498DB&center=true&vCenter=true&width=460&lines=Game+Developer;Cyber+Security+Enthusiast;UI%2FUX+Designer;Front-End+Dev" alt="Typing SVG - Game Developer, Cyber Security Enthusiast, UI/UX Designer, Front-End Dev" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3498DB&center=true&vCenter=true&width=460&lines=Game+Developer;Cyber+Security+Enthusiast;UI%2FUX+Designer;Front-End+Dev" alt="Typing SVG - Game Developer, Gen AI Engineer, Cyber Security Enthusiast, UI/UX Designer, Front-End Dev" />
   </a>
 
   <br>
