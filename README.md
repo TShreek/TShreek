@@ -36,7 +36,7 @@
 
 ## 🎯 About Me
 
-Hey there! I'm Shreekrishna, a Final year Computer Science student specializing in Cyber Security at M. S. Ramaiah Institute of Technology (CGPA: 8.53). I'm passionate about building tools that solve real-world problems and currently exploring how Generative AI can make learning more accessible. My goal is to leverage my skills in **Game Development**, **UI/UX Design**, and **Cybersecurity** to create innovative and impactful solutions. 
+Hey there! I'm Shreekrishna, a Final year Computer Science student working as a full-stack developer intern, specializing in Cyber Security at M. S. Ramaiah Institute of Technology (CGPA: 8.53). I'm passionate about building tools that solve real-world problems and currently exploring how Generative AI can make learning more accessible. My goal is to leverage my skills in **Game Development**, **UI/UX Design**, and **Cybersecurity** to create innovative and impactful solutions. 
 
 
 ---
