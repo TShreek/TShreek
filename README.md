@@ -2,13 +2,13 @@
 
   <h1 style="font-size: 3em; font-weight: bold; margin-bottom: 0;">Hi, I am Shreekrishna T 👋</h1> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3498DB&center=true&vCenter=true&width=460&lines=Game+Developer;Gen+AI+Engineer;Cyber+Security+Enthusiast;UI%2FUX+Designer;Front-End+Dev" alt="Typing SVG - Game Developer, Gen AI Engineer, Cyber Security Enthusiast, UI/UX Designer, Front-End Dev" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3498DB&center=true&vCenter=true&width=460&lines=Game+Developer;Gen+AI+Engineer;Cyber+Security+Enthusiast;UI%2FUX+Designer;Front-End+Dev" alt="Typing SVG - Game Developer, AI Engineer, Cyber Security Enthusiast, Front-End Dev" />
   </a>
 
   <br>
 
   <p style="font-size: 1.2em; margin-top: 10px;">
-    🚀 Final year B.E. Computer Science (Cyber Security) student passionate about Secure Software Development, Game development and Cybersecurity. 🚀 
+    🚀 AI Engineer & Final year B.E. Computer Science (Cyber Security) student passionate about Gen AI, Secure Software Development and Game development. 🚀 
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=TShreek&label=Profile%20Gazers&color=00A86B&style=flat-square" alt="profile gazers"/>
@@ -36,7 +36,7 @@
 
 ## 🎯 About Me
 
-Hey there! I'm Shreekrishna, a Final year Computer Science student working as a full-stack developer intern, specializing in Cyber Security at M. S. Ramaiah Institute of Technology (CGPA: 8.53). I'm passionate about building tools that solve real-world problems and currently exploring how Generative AI can make learning more accessible. My goal is to leverage my skills in **Game Development**, **UI/UX Design**, and **Cybersecurity** to create innovative and impactful solutions. 
+Hey there! I'm Shreekrishna, a Final year Computer Science student working as an AI Engineer, specializing in Cyber Security at M. S. Ramaiah Institute of Technology (CGPA: 8.56). I'm passionate about building tools that solve real-world problems and currently exploring how Generative AI can make learning more accessible. My goal is to leverage my skills in **Game Development**, and **Cybersecurity** to create innovative and impactful solutions. 
 
 
 ---
@@ -71,7 +71,7 @@ Hey there! I'm Shreekrishna, a Final year Computer Science student working as a 
 
 <div align="center">
   <p>
-    I'm always excited to discuss game development, cybersecurity, or any tech innovations. Let's connect!
+    I'm always excited to discuss AI innovations, automations, game development, cybersecurity, or any tech innovations. Let's connect!
   </p>
   <a href="https://itshreek.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio%20Website-00A86B?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio/Website"/>
