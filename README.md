@@ -178,10 +178,12 @@ Professional focus centered on AI Engineering, building real-world LLM systems, 
 </div>
 ---
 
-# Contribution Activity
+---
+
+# Achievements
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TShreek&custom_title=Contribution%20Graph&bg_color=0d1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TShreek&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
