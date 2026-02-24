@@ -179,10 +179,10 @@ Professional focus centered on AI Engineering, building real-world LLM systems, 
 
 ---
 
-# Contribution Insights
+# Achievements
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TShreek&theme=tokyonight" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TShreek&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
