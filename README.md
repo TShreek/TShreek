@@ -182,3 +182,13 @@ Professional focus centered on AI Engineering, building real-world LLM systems, 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TShreek&theme=tokyonight" width="95%"/>
 
 </div>
+
+---
+
+# Productivity Clock
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TShreek&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
