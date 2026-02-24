@@ -85,16 +85,6 @@ LangChain • MCP • OpenAI • Vector Databases • Agent Architectures
 
 ---
 
-# Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,cs,docker,aws,gcp,mysql,git,linux,unity,flutter&perline=7" />
-
-</div>
-
----
-
 # Featured AI Systems
 
 <div align="center">
