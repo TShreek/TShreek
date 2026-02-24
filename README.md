@@ -95,21 +95,27 @@ LangChain • MCP • OpenAI • Vector Databases • Agent Architectures
 
 ---
 
-# Featured Projects
+# Featured AI Systems
 
 <div align="center">
 
+### Learning Resource Generator  
+AI-powered system that generates structured learning paths using LLMs, LangChain, and contextual reasoning  
+
 <a href="https://github.com/TShreek/LearningResourceGenerator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TShreek&repo=LearningResourceGenerator&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/View%20Project-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
+<br><br>
+
+### Unity AI / Game Systems  
+Game systems and mechanics built with Unity, focusing on intelligent interaction and system design  
+
 <a href="https://github.com/TShreek/unity">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TShreek&repo=unity&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
-
----
 
 # GitHub Activity
 
