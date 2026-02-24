@@ -1,105 +1,153 @@
 <div align="center">
 
-  <h1 style="font-size: 3em; font-weight: bold; margin-bottom: 0;">Hi, I am Shreekrishna T 👋</h1> 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3498DB&center=true&vCenter=true&width=460&lines=Game+Developer;Gen+AI+Engineer;Cyber+Security+Enthusiast;UI%2FUX+Designer;Front-End+Dev" alt="Typing SVG - Game Developer, AI Engineer, Cyber Security Enthusiast, Front-End Dev" />
-  </a>
+# Shreekrishna T
 
-  <br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=AI+Engineer;LangChain+Developer;MCP+Integrator;LLM+Systems+Builder;Agentic+AI+Developer;Game+Developer;Cybersecurity+Engineer" />
 
-  <p style="font-size: 1.2em; margin-top: 10px;">
-    🚀 AI Engineer & Final year B.E. Computer Science (Cyber Security) student passionate about Gen AI, Secure Software Development and Game development. 🚀 
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=TShreek&label=Profile%20Gazers&color=00A86B&style=flat-square" alt="profile gazers"/>
-
-</div>
-
----
-
-<div align="center">
-  <a href="https://github.com/TShreek">
-    <img src="https://github-readme-stats.vercel.app/api?username=TShreek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=49%" alt="Shreekrishna T's GitHub Stats" />
-  </a>
-  <a href="https://github.com/TShreek">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TShreek&layout=compact&theme=tokyonight&hide_border=true&card_width=49%" alt="Shreekrishna T's Top Languages" />
-  </a>
-  <a href="https://streak-stats.demolab.com?user=TShreek">
-    <img src="https://streak-stats.demolab.com?user=TShreek&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TShreek&theme=tokyonight">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TShreek&theme=tokyonight" alt="GitHub Summary Card" />
-  </a>
-</div>
-
----
-
-## 🎯 About Me
-
-Hey there! I'm Shreekrishna, a Final year Computer Science student working as an AI Engineer, specializing in Cyber Security at M. S. Ramaiah Institute of Technology (CGPA: 8.56). I'm passionate about building tools that solve real-world problems and currently exploring how Generative AI can make learning more accessible. My goal is to leverage my skills in **Game Development**, and **Cybersecurity** to create innovative and impactful solutions. 
-
-
----
-
-## 🛠️ My Tech Arsenal
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,typescript,html,css,unity,git,docker,mysql,gcp,aws,flutter,linux"/>
-</div>
-
----
-
-## 🌟 Spotlight Projects
-
-<div align="center">
-  <a href="https://github.com/TShreek/LearningResourceGenerator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TShreek&repo=LearningResourceGenerator&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2" alt="LearningResourceGenerator Project Pin" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/TShreek/unity">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TShreek&repo=unity&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2" alt="Unity Game Development Project Pin" />
-  </a>
-</div>
 <br>
-<div align="center">
-  <em>🚀 Check out my repositories for more exciting projects! 🚀</em>
+
+**AI Engineer focused on building production-grade LLM systems using LangChain, MCP, and tool-integrated agents**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=TShreek&label=Profile%20Views&color=00F5FF&style=for-the-badge"/>
+
 </div>
 
 ---
 
-## 🔗 Let's Connect!
+# AI Engineering Focus
+
+**Role:** AI Engineer  
+
+**Core Specialization**
+- LLM application engineering
+- LangChain agent development
+- Model Context Protocol (MCP) integration
+- Retrieval-Augmented Generation (RAG)
+- Tool-calling and agent architectures
+- Context-aware intelligent systems
+
+**What I Build**
+- Autonomous AI agents
+- Tool-integrated LLM systems
+- AI developer tools
+- Intelligent workflow automation
+- MCP-enabled AI systems
+
+**Primary Stack**
+- LangChain
+- MCP Servers & Clients
+- OpenAI APIs
+- Python
+- Vector databases
+- Docker & cloud deployment
+
+---
+
+# Tech Stack
 
 <div align="center">
-  <p>
-    I'm always excited to discuss AI innovations, automations, game development, cybersecurity, or any tech innovations. Let's connect!
-  </p>
-  <a href="https://itshreek.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%20Website-00A86B?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio/Website"/>
-  </a> &nbsp;
-  <a href="https://github.com/TShreek" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a> &nbsp;
-  <a href="https://www.linkedin.com/in/shreekrishna-tirumalai-88b94425b/" target="_blank"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a> &nbsp;
-  <a href="mailto:tshreek2004@gmail.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
-  </a>
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,cs,docker,aws,gcp,mysql,git,linux,unity,flutter&perline=7" />
+
+</div>
+
+**AI / LLM**
+- LangChain
+- MCP
+- OpenAI API
+- RAG pipelines
+- Tool calling
+- Agent systems
+
+**Engineering**
+- Backend systems
+- API integrations
+- Cloud deployment
+- System design
+
+**Additional Domains**
+- Game development (Unity)
+- Cybersecurity fundamentals
+- Frontend development
+
+---
+
+# Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/TShreek/LearningResourceGenerator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TShreek&repo=LearningResourceGenerator&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/TShreek/unity">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TShreek&repo=unity&theme=tokyonight&hide_border=true"/>
+</a>
+
 </div>
 
 ---
 
-## 📊 LeetCode Prowess
+# GitHub Activity
 
 <div align="center">
-  <a href="https://leetcode.com/u/TShreek/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/TShreek?theme=dark&font=Fira%20Code&ext=activity,heatmap&border=0&radius=10&height=350" alt="Shreekrishna's LeetCode Stats & Activity"/>
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TShreek&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=TShreek&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TShreek&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
+# Problem Solving
+
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"> <br>
-  <em>Thanks for visiting my profile!</em>
+
+<img src="https://leetcard.jacoblin.cool/TShreek?theme=dark&font=JetBrains+Mono&ext=heatmap"/>
+
+</div>
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="https://itshreek.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/TShreek">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/shreekrishna-tirumalai-88b94425b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:tshreek2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+# Background
+
+Computer Science (Cyber Security) — ongoing  
+
+Primary professional identity and work focused on AI Engineering, building real-world LLM systems, agent architectures, and MCP integrations.
+
+---
+
+<div align="center">
+
+**Building intelligent systems that extend beyond chat into real-world capability**
+
 </div>
