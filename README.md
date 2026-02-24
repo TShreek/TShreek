@@ -176,3 +176,12 @@ Professional focus centered on AI Engineering, building real-world LLM systems, 
 **Thanks for visiting. Now go build something intelligent.**
 
 </div>
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TShreek&custom_title=Contribution%20Graph&bg_color=0d1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
