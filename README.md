@@ -6,7 +6,7 @@
 
 <br>
 
-**AI Engineer focused on building production-grade LLM systems using LangChain, MCP, and tool-integrated agents**
+**Building production-grade AI systems using LLMs, LangChain, and Model Context Protocol (MCP)**
 
 <br>
 
@@ -18,30 +18,70 @@
 
 # AI Engineering Focus
 
-**Role:** AI Engineer  
+<div align="center">
 
-**Core Specialization**
-- LLM application engineering
-- LangChain agent development
-- Model Context Protocol (MCP) integration
-- Retrieval-Augmented Generation (RAG)
-- Tool-calling and agent architectures
-- Context-aware intelligent systems
+<img src="https://img.shields.io/badge/Role-AI%20Engineer-00F5FF?style=for-the-badge&logo=openai&logoColor=black"/>
 
-**What I Build**
-- Autonomous AI agents
-- Tool-integrated LLM systems
-- AI developer tools
-- Intelligent workflow automation
-- MCP-enabled AI systems
+<img src="https://img.shields.io/badge/Specialty-LangChain-0A66C2?style=for-the-badge"/>
 
-**Primary Stack**
-- LangChain
-- MCP Servers & Clients
-- OpenAI APIs
-- Python
-- Vector databases
-- Docker & cloud deployment
+<img src="https://img.shields.io/badge/Protocol-MCP-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Architecture-LLM%20Agents-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Focus-Production%20AI-00C853?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building AI systems that reason, use tools, and interact with real-world environments
+
+</div>
+
+---
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### Core Expertise
+
+- LangChain agent architecture  
+- Model Context Protocol (MCP) integration  
+- Retrieval-Augmented Generation (RAG)  
+- Tool-calling LLM systems  
+- Autonomous AI agents  
+
+</td>
+<td width="50%" valign="top">
+
+### What I Engineer
+
+- Production-grade AI applications  
+- Tool-integrated intelligent systems  
+- Context-aware AI workflows  
+- AI developer tools  
+- Scalable LLM infrastructure  
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### Current Stack
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,docker,aws,gcp,linux,git,mysql" />
+
+<br><br>
+
+LangChain • MCP • OpenAI • Vector Databases • Agent Architectures
+
+</div>
 
 ---
 
@@ -52,25 +92,6 @@
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,cs,docker,aws,gcp,mysql,git,linux,unity,flutter&perline=7" />
 
 </div>
-
-**AI / LLM**
-- LangChain
-- MCP
-- OpenAI API
-- RAG pipelines
-- Tool calling
-- Agent systems
-
-**Engineering**
-- Backend systems
-- API integrations
-- Cloud deployment
-- System design
-
-**Additional Domains**
-- Game development (Unity)
-- Cybersecurity fundamentals
-- Frontend development
 
 ---
 
@@ -108,7 +129,7 @@
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/TShreek?theme=dark&font=JetBrains+Mono&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/TShreek?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=12" height="250"/>
 
 </div>
 
@@ -142,12 +163,16 @@
 
 Computer Science (Cyber Security) — ongoing  
 
-Primary professional identity and work focused on AI Engineering, building real-world LLM systems, agent architectures, and MCP integrations.
+Professional focus centered on AI Engineering, building real-world LLM systems, agent architectures, and MCP integrations.
 
 ---
 
 <div align="center">
 
-**Building intelligent systems that extend beyond chat into real-world capability**
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
+
+<br><br>
+
+**Thanks for visiting. Now go build something intelligent.**
 
 </div>
