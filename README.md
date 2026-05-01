@@ -29,18 +29,26 @@
 
 ---
 
-### 📊 Vital Statistics & Language Mix
+### 📊 Vital Statistics & Language Distribution
 
 <div align="center">
 
-<!-- Contribution Insights -->
+<!-- Main Contribution Summary -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TShreek&theme=tokyonight" width="95%"/>
 
 <br/>
 
-<!-- Side-by-side: Stats and the Language % Chart -->
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=TShreek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=10B981&icon_color=10B981" />
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TShreek&layout=compact&theme=tokyonight&hide_border=true&title_color=10B981&langs_count=6" />
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=TShreek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=10B981&icon_color=10B981" />
+    </td>
+    <td width="50%" align="center">
+      <!-- The "Cool Graph" - Donut style language chart -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TShreek&layout=donut&theme=tokyonight&hide_border=true&title_color=10B981&icon_color=10B981&langs_count=8" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -53,12 +61,12 @@
     <td width="50%" valign="top">
       <h4>🤖 Learning Resource Gen</h4>
       <p>Automated curriculum builder using agentic reasoning and LLMs. Built with <b>Python</b>.</p>
-      <a href="https://github.com/TShreek/LearningResourceGenerator"><b>[ ACCESS_REPO ]</b></a>
+      <a href="https://github.com/TShreek/LearningResourceGenerator" target="_blank"><b>[ ACCESS_REPO ]</b></a>
     </td>
     <td width="50%" valign="top">
       <h4>🎮 Unity AI Systems</h4>
       <p>Intelligent NPC behaviors and game mechanics engineered in <b>C#</b>.</p>
-      <a href="https://github.com/TShreek/unity"><b>[ EXPLORE_LOGIC ]</b></a>
+      <a href="https://github.com/TShreek/unity" target="_blank"><b>[ EXPLORE_LOGIC ]</b></a>
     </td>
   </tr>
 </table>
@@ -77,11 +85,12 @@
 
 <div align="center">
 
-| [**PORTFOLIO**](https://itshreek.vercel.app) | [**LINKEDIN**](https://linkedin.com/in/shreekrishna-tirumalai-88b94425b) | [**EMAIL**](mailto:tshreek2004@gmail.com) |
+| [<a href="https://itshreek.vercel.app" target="_blank">**PORTFOLIO**</a>] | [<a href="https://linkedin.com/in/shreekrishna-tirumalai-88b94425b" target="_blank">**LINKEDIN**</a>] | [<a href="mailto:tshreek2004@gmail.com">**EMAIL**</a>] |
 | :---: | :---: | :---: |
 
 <br><br>
 
+<!-- The Rapid Typing Cat -->
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
 
 <br><br>
