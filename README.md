@@ -1,144 +1,96 @@
 <div align="center">
 
-# ⚡ Shreekrishna T
+# 🖥️ [ SYSTEM_ACCESS: SHREEKRISHNA_T ]
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=AI+Engineer;LangChain+Developer;MCP+Integrator;LLM+Systems+Builder;Agentic+AI+Developer;Game+Developer;Cybersecurity+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=>>+AI_ENGINEER_INITIALIZED;>>+LANGCHAIN_AGENT_ORCHESTRATOR;>>+MCP_PROTOCOL_EXPERT;>>+FULL_STACK_SYSTEMS_BUILDER;>>+CYBERSECURITY_RESEARCHER" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TShreek&label=System%20Accesses&color=00F5FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=TShreek&label=TOTAL_SYNAPSES&color=39FF14&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-blue?style=flat-square" />
 </p>
-
-**Architecting production-grade AI systems with LLMs, LangChain, and the Model Context Protocol (MCP)**
 
 ---
 
-### 🛠️ AI Engineering Focus
+### ⚡ CORE_SYSTEM_ARCHITECTURE
 
-<!-- Fixed Visibility: Using logoColor=black for high-contrast visibility on Cyan -->
-<img src="https://img.shields.io/badge/Role-AI%20Engineer-00F5FF?style=for-the-badge&logo=openai&logoColor=000"/>
-<img src="https://img.shields.io/badge/Specialty-LangChain-0A66C2?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Protocol-MCP-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-<img src="https://img.shields.io/badge/Architecture-LLM%20Agents-FF6F00?style=for-the-badge&logo=target&logoColor=white"/>
-<img src="https://img.shields.io/badge/Focus-Production%20AI-00C853?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+| **ORCHESTRATION** | **INFRASTRUCTURE** | **INTELLIGENCE** |
+| :--- | :--- | :--- |
+| 🤖 LangChain / LangGraph | ☁️ AWS / GCP | 🧠 LLM Tool-Calling |
+| 🔌 MCP Integration | 🐳 Docker / Kubernetes | 🔍 Semantic Search |
+| 🏗️ Agentic Workflows | 💾 PostgreSQL / Kafka | 🛡️ Cybersecurity / AppSec |
+
+---
+
+### 🛠️ TECH_STACK_MATRIX
+
+<img src="https://skillicons.dev/icons?i=python,typescript,fastapi,react,tailwind,postgres,kafka,docker,aws,linux,git,mongodb,cpp" />
+
+<br>
+
+**FRAMEWORKS & PROTOCOLS**  
+`LangChain` • `Model Context Protocol (MCP)` • `OpenAI / Anthropic SDKs` • `VectorDBs (Pinecone/Chroma)`
 
 </div>
 
 ---
 
-### 🧠 System Capabilities
+### 📂 CLASSIFIED_PROJECTS
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-#### **Core Expertise**
-- 🤖 **Agentic Workflows:** LangChain & LangGraph architectures
-- 🔌 **MCP Integration:** Connecting LLMs to local/remote tools
-- 📚 **Advanced RAG:** Context-aware retrieval systems
-- 🛠️ **Tool-Calling:** Building autonomous function-calling loops
-- 🛡️ **System Safety:** Secure AI infrastructure
-
-</td>
-<td width="50%" valign="top">
-
-#### **Current Engineering**
-- 🚀 **Scalable LLM Ops:** Production-grade AI deployment
-- 🔗 **Contextual Reasoning:** Systems that use real-world data
-- 🎮 **Unity AI:** Intelligent NPCs and game system design
-- 💻 **DevTools:** Building the next gen of AI-assisted coding
-- 🏗️ **Infrastructure:** Python, FastAPI, and Kafka integration
-
-</td>
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%">
+      <h4>🚀 Learning Resource Generator</h4>
+      <p><i>LLM-driven system that builds structured educational paths via autonomous reasoning agents.</i></p>
+      <img src="https://img.shields.io/badge/Stack-Python_|_LangChain-39FF14?style=flat-square" />
+      <br><br>
+      <a href="https://github.com/TShreek/LearningResourceGenerator"><b>[ VIEW_DEPLOYMENT ]</b></a>
+    </td>
+    <td width="50%">
+      <h4>🎮 Unity AI Systems</h4>
+      <p><i>Advanced NPC behavior trees and intelligent game mechanics built for dynamic interaction.</i></p>
+      <img src="https://img.shields.io/badge/Stack-C%23_|_Unity-8A2BE2?style=flat-square" />
+      <br><br>
+      <a href="https://github.com/TShreek/unity"><b>[ ACCESS_SOURCE ]</b></a>
+    </td>
+  </tr>
 </table>
 
 ---
 
-### 💻 The Tech Stack
+### 📈 NEURAL_ACTIVITY_MONITOR
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,docker,aws,gcp,linux,postgres,kafka,fastapi,react,tailwind" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TShreek&theme=tokyonight&hide_border=true&area=true" />
 
 <br>
 
-**Frameworks & Models**
-`LangChain` • `MCP` • `OpenAI` • `Anthropic` • `VectorDBs` • `Agentic RAG`
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=TShreek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TShreek&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-### 🚀 Featured Deployments
+### 🧩 ALGORITHMIC_THROUGHPUT
 
 <div align="center">
-
-#### **Learning Resource Generator**
-*AI-powered system generating structured learning paths via LLM reasoning.*
-<br>
-<a href="https://github.com/TShreek/LearningResourceGenerator">
-<img src="https://img.shields.io/badge/View%20System-00F5FF?style=for-the-badge&logo=github&logoColor=000"/>
-</a>
-
-<br><br>
-
-#### **Unity AI / Game Systems**
-*Game mechanics and agent behaviors built for intelligent interaction.*
-<br>
-<a href="https://github.com/TShreek/unity">
-<img src="https://img.shields.io/badge/View%20Source-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <img src="https://leetcard.jacoblin.cool/TShreek?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=2" height="150"/>
 </div>
 
 ---
 
-### 📊 System Metrics
+### 📡 CONNECTIVITY_CHANNELS
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=TShreek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TShreek&layout=compact&theme=tokyonight&hide_border=true"/>
+| [**PORTFOLIO**](https://itshreek.vercel.app) | [**LINKEDIN**](https://linkedin.com/in/shreekrishna-tirumalai-88b94425b) | [**EMAIL**](mailto:tshreek2004@gmail.com) | [**GITHUB**](https://github.com/TShreek) |
+| :---: | :---: | :---: | :---: |
 
 <br>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TShreek&theme=tokyonight&hide_border=true"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TShreek&theme=tokyonight&utcOffset=5.5"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJpbmZ6bmY5ZzZueXN6bmY5ZzZueXN6bmY5ZzZueXN6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/LmNwrBhejkK9EFP504/giphy.gif" width="80"/>
 
-</div>
-
----
-
-### 🧩 Problem Solving
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/TShreek?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=12" height="150"/>
-</div>
-
----
-
-### 🌐 Transmission Channels
-
-<div align="center">
-
-<a href="https://itshreek.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
-</a>
-<a href="https://linkedin.com/in/shreekrishna-tirumalai-88b94425b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:tshreek2004@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100"/>
-
-**Connection Established. Go build something intelligent.**
+**_“Building systems that reason. One token at a time.”_**
 
 </div>
