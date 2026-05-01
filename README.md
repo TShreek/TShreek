@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 SHREEKRISHNA T.
+# SHREEKRISHNA T.
 **AI Engineer | Systems Developer | Unity Creator**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=>>+Building+Autonomous+Agents;>>+Engineering+MCP+Protocols;>>+Mastering+DSA+in+C++;>>+Crafting+Unity+Game+Systems" />
