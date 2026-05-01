@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<!-- This is the "contribution number thingy" -->
+<!-- Contribution Insights -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TShreek&theme=tokyonight" width="95%"/>
 
 <br/>
@@ -73,21 +73,19 @@
 
 ---
 
-### 📡 Connectivity & Companions
+### 📡 Connectivity
 
 <div align="center">
 
 | [**PORTFOLIO**](https://itshreek.vercel.app) | [**LINKEDIN**](https://linkedin.com/in/shreekrishna-tirumalai-88b94425b) | [**EMAIL**](mailto:tshreek2004@gmail.com) |
 | :---: | :---: | :---: |
 
-<br/>
+<br><br>
 
-**The Resident Debugger:**
-<br/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZhcXJ6eG93ZzZueXN6bmY5ZzZueXN6bmY5ZzZueXN6bmY5ZyZlcD12MV9pbnRlcm5hbV9naWZfYnlfaWQmY3Q9cw/jpbnoe3UIa8TU8UC8F/giphy.gif" width="120"/>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
 
-<br/>
+<br><br>
 
-**_"Compiling the future, one token at a time."_**
+**Thanks for visiting. Now go build something intelligent.**
 
 </div>
