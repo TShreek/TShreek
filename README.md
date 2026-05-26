@@ -53,7 +53,7 @@
 | Project | System Architecture | Access |
 | :--- | :--- | :---: |
 | **Learning Resource Gen** | AI agents generating structured educational paths. | [**<a href="https://github.com/TShreek/LearningResourceGenerator" target="_blank">REPO</a>**] |
-| **Unity AI Systems** | Advanced agent behaviors and game logic in C#. | [**<a href="https://github.com/TShreek/unity" target="_blank">REPO</a>**] |
+| **Unity Systems** | Advanced behaviors, physics and game logic in C#. | [**<a href="https://github.com/TShreek/unity" target="_blank">REPO</a>**] |
 
 ---
 
